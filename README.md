@@ -58,7 +58,7 @@ internal_web_panel_config.json
 
 ### 6. YouTube / Streaming Notice
 - **Live streaming (e.g. YouTube Live) is not officially supported**  
-- To enter fullscreen in YouTube:
+- To enter fullscreen :
   - Press **F key** after the app starts  
 
 ---
@@ -126,7 +126,7 @@ internal_web_panel_config.json
 
 ### 6. 유튜브 / 스트리밍 안내
 - **유튜브 등 라이브 스트리밍은 공식적으로 지원하지 않습니다**  
-- 유튜브 전체화면 방법:
+- 전체화면 방법 :
   - 앱 실행 후 **F 키** 입력  
 
 ---
