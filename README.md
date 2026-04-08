@@ -69,6 +69,7 @@ internal_web_panel_config.json
 - Or press **Ctrl + Q** to exit  
 
 ---
+---
 
 ### 1. 보안 경고 없는 내부 접속용 브라우저
 - 크롬, 엣지 등의 웹브라우저로 내부 웹서버에 접속할 수 있지만  
