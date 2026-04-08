@@ -106,7 +106,7 @@ internal_web_panel_config.json
 ```
 internal_web_panel_config.json
 ```
-
+<img width="472" height="383" alt="cap" src="https://github.com/user-attachments/assets/968a31b7-6923-46ea-974f-77be8d985822" />
 ---
 
 ### 4. 재생 동작
